@@ -1,6 +1,22 @@
-# 🍔 FoodHub - Customer Module
+# 🍔 FoodHub — Food Ordering & Delivery Platform
 
-**FoodHub** is an online food ordering and delivery web application. This repository contains the **Customer Module**, developed using **pure procedural PHP and procedural MySQLi** (strictly zero OOP classes/objects, zero PDO) following a clean procedural MVC structure.
+## Authentication, Role-Based Access Control (RBAC) & User Management System
+
+FoodHub is a **server-side web application** built for a complete food delivery platform experience. It is built using **pure procedural PHP and procedural MySQLi** (zero classes, zero OOP, zero PDO) with a clean **MVC-style separation** of database operations (**models**), presentation templates (**views**), and request handlers (**controllers**) across 4 distinct user roles.
+
+---
+
+## 📋 Table of Contents
+
+1. [Tech Stack](#tech-stack)
+2. [User Roles](#user-roles)
+3. [Procedural Architecture](#procedural-architecture)
+4. [Project Directory Structure](#project-directory-structure)
+5. [Features](#features)
+6. [Database Setup](#database-setup)
+7. [How to Run Locally](#how-to-run-locally)
+8. [Default Credentials](#default-credentials)
+9. [Security Implementation](#security-implementation)
 
 ---
 
