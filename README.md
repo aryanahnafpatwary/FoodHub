@@ -1,4 +1,4 @@
-﻿# 🍔 FoodHub — Food Ordering & Delivery Platform
+﻿# 🍔 FoodHub - Food Ordering & Delivery Platform
 
 ## Authentication, Role-Based Access Control (RBAC) & User Management System
 
